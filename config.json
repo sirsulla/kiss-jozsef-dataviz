@@ -1,0 +1,59 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": ""
+  },
+  "text": {
+    "more": "",
+    "intro": "",
+    "title": ""
+  },
+  "legend": {
+    "edgeLabel": "Levélváltások",
+    "colorLabel": "Kapcsolat típusa",
+    "nodeLabel": "A kapcsolat jellege",
+    "colorLabel1": "Egyéb",
+    "colorLabel2": "Személyes",
+    "colorLabel3": "Szakmai",
+    "colorLabel4": "Családi",
+    "colorLabel5": "Hivatalos",
+    "colorLabel6": "Kiss József"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "kapcsolat jellege",
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#FFFFFF",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 8,
+      "minEdgeSize": 0.7,
+      "minNodeSize": 1,
+      "maxNodeSize": 30
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}

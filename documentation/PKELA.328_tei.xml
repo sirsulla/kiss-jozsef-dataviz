@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ady Endre – Kiss József (k.n.)</title>
+			</titleStmt>			
+			<editionStmt>
+				<edition>Digitális forráskiadás</edition>				
+			</editionStmt>
+			<publicationStmt>
+				<publisher>
+					<orgName>Petőfi Irodalmi Múzeum</orgName>
+					<ref type="url">http://viaf.org/viaf/152132060/</ref>
+					<ref type="url">http://www.pim.hu</ref>
+				</publisher>
+				<pubPlace>Budapest<ref type="url">http://www.geonames.org/3054643</ref>
+				</pubPlace>
+				<date>2021</date>
+				<availability>
+					<p>©In Copyright <ref type="url">http://rightsstatements.org/vocab/InC/1.0/</ref>
+					</p>
+				</availability>
+				<idno type="PID">PKELA.328_tei</idno>				
+				<idno type="URL">/PKELA.328_tei.xml</idno>				
+			</publicationStmt>
+			<notesStmt>
+				<note type="critIntro" xml:id="crit.1">Ady Endre a Barla aláírást ajánlja A Hétben megjelendő cikkéhez.</note>
+				<note type="publication">
+					<bibl></bibl>
+				</note>
+			</notesStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<country>Magyarország</country>
+						<settlement>Budapest<idno type="KOHA_GEO">KOHA_GEO:9227</idno>
+						</settlement>
+						<institution>Petőfi Irodalmi Múzeum</institution>
+						<repository>Petőfi Irodalmi Múzeum Kézirattár</repository>
+						<idno>A. 328</idno>
+						<msName>Kiss József-hagyaték</msName>
+					</msIdentifier>
+					<msPart style="letter">
+						<msIdentifier/>
+						<physDesc>
+							<objectDesc>
+								<supportDesc>
+									<extent>
+										<measure type="quantity" unit="folio"></measure>
+										<measure type="quantity" unit="piece">1</measure>
+										<dimensions unit="mm">
+											<height></height>
+											<width></width>
+										</dimensions>
+										<dimensions unit="mm">
+											<height></height>
+											<width></width>
+										</dimensions>
+									</extent>
+									<condition>
+										<p></p>
+									</condition>
+								</supportDesc>
+							</objectDesc>
+						</physDesc>
+					</msPart>
+					<msPart style="attachment">
+						<msIdentifier/>
+						<physDesc>
+							<objectDesc>
+								<supportDesc>
+									<extent>
+										<measure type="quantity" unit="folio"/>
+										<measure type="quantity" unit="piece"/>
+										<dimensions unit="mm">
+											<height/>
+											<width/>
+										</dimensions>
+									</extent>
+									<condition>
+										<p>Nyomtatvány. Autográf tintaírás, teljes névaláírással.</p>
+									</condition>
+								</supportDesc>
+							</objectDesc>
+						</physDesc>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="hu"/>
+			</langUsage>
+			<textClass>
+				<keywords corresp="Letter" scheme="AAT">
+					<term>levél</term>
+				</keywords>
+			</textClass>
+			<creation>
+				<date when="1907-11-22">[1907-11-22]</date>
+				<placeName>Budapest<idno type="KOHA_GEO">KOHA_GEO:3054643</idno>
+				</placeName>
+			</creation>
+			<correspDesc>
+				<correspAction type="sent">
+					<date/>
+					<placeName>
+						<idno type="KOHA_GEO">KOHA_GEO:</idno>
+					</placeName>
+					<persName>Ady Endre<idno type="PIM">PIM:39819</idno>
+					</persName>
+				</correspAction>
+				<correspAction type="received">
+					<placeName><idno type="KOHA_GEO">KOHA_GEO:</idno>
+					</placeName>
+					<persName>Kiss József<idno type="PIM">PIM:61086</idno></persName>
+					
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+		<revisionDesc status="published"><change/></revisionDesc>
+	</teiHeader>
+	<facsimile xml:id="facs_1">
+		<surface ulx="0" uly="0" lrx="2478" lry="1528">
+			<graphic url="PKELA.328_a.jpg" width="2478px" height="1528px" />
+			<zone ulx="220" uly="85" lrx="2077" lry="298" rendition="Line" xml:id="facs_1_line_1593110141353_894" />
+			<zone ulx="244" uly="207" lrx="2192" lry="452" rendition="Line" xml:id="facs_1_line_1593110187531_899" />
+			<zone ulx="236" uly="337" lrx="2238" lry="615" rendition="Line" xml:id="facs_1_line_1593110193008_904" />
+			<zone ulx="228" uly="497" lrx="2080" lry="741" rendition="Line" xml:id="facs_1_line_1593110198792_909" />
+			<zone ulx="236" uly="652" lrx="2111" lry="907" rendition="Line" xml:id="facs_1_line_1593110208631_914" />
+			<zone ulx="250" uly="812" lrx="2241" lry="1116" rendition="Line" xml:id="facs_1_line_1593110214576_919" />
+			<zone ulx="238" uly="974" lrx="2244" lry="1228" rendition="Line" xml:id="facs_1_line_1593110221365_924" />
+			<zone ulx="242" uly="1137" lrx="2074" lry="1364" rendition="Line" xml:id="facs_1_line_1593110226510_929" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_2">
+		<surface ulx="0" uly="0" lrx="2474" lry="1528">
+			<graphic url="PKELA.328_b.jpg" width="2474px" height="1528px" />
+			<zone ulx="114" uly="54" lrx="2282" lry="263" rendition="Line" xml:id="facs_2_line_1593110482057_973" />
+			<zone ulx="153" uly="213" lrx="1944" lry="397" rendition="Line" xml:id="facs_2_line_1593110488319_978" />
+			<zone ulx="167" uly="371" lrx="596" lry="491" rendition="Line" xml:id="facs_2_line_1593110492399_983" />
+			<zone ulx="1096" uly="369" lrx="1991" lry="813" rendition="Line" xml:id="facs_2_line_1593110497313_988" />
+			<zone ulx="206" uly="667" lrx="2164" lry="769" rendition="Line" xml:id="facs_2_line_1593110543581_1011" />
+			<zone ulx="821" uly="817" lrx="1629" lry="903" rendition="Line" xml:id="facs_2_line_1593110553176_1016" />
+			<zone ulx="638" uly="998" lrx="2231" lry="1188" rendition="Line" xml:id="facs_2_line_1593110560129_1021" />
+			<zone ulx="198" uly="1262" lrx="659" lry="1433" rendition="Line" xml:id="facs_2_line_1593110685237_1059" />
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs="#facs_1" n="1" />
+			<p facs="#facs_1_region_1593110134679_891">
+				<lb facs="#facs_1_line_1593110141353_894" n="N001" />Mélyen Tisztelt Szerkesztő
+				<lb facs="#facs_1_line_1593110187531_899" n="N002" /><sic>Ur, k</sic>edves Józsi bátyám,
+				<lb facs="#facs_1_line_1593110193008_904" n="N003" />itt küldöm a cikket,
+				<lb facs="#facs_1_line_1593110198792_909" n="N004" />a <sic>címet</sic> tessék föl¬
+				<lb facs="#facs_1_line_1593110208631_914" n="N005" />cserélni, ha egy jobb
+				<lb facs="#facs_1_line_1593110214576_919" n="N006" /><sic>cím</sic> ötlenék. A <unclear>jel</unclear>,
+				<lb facs="#facs_1_line_1593110221365_924" n="N007" />a Barla név, talán
+				<lb facs="#facs_1_line_1593110226510_929" n="N008" />jó lesz, de ez is
+			</p>
+			<pb facs="#facs_2" n="2" />
+			<p facs="#facs_2_region_1593110375186_946">
+				<lb facs="#facs_2_line_1593110482057_973" n="N001" />kész másnak helyet adni.
+			</p>
+			<p facs="#facs_2_region_1593110384795_949">
+				<lb facs="#facs_2_line_1593110488319_978" n="N001" />Kezét csókolja igaz
+				<lb facs="#facs_2_line_1593110492399_983" n="N002" /><sic>híve</sic>
+			</p>
+			<p facs="#facs_2_region_1593110401049_952">
+				<lb facs="#facs_2_line_1593110497313_988" n="N001" />Ady E
+			</p>
+			<p facs="#facs_2_region_1593110409415_955">
+				<lb facs="#facs_2_line_1593110543581_1011" n="N001" /><del>Rédacteur parisian du journal quotidien „Budapesti Napló”</del>
+			</p>
+			<p facs="#facs_2_region_1593110415612_958">
+				<lb facs="#facs_2_line_1593110553176_1016" n="N001" />Endre de Ady
+			</p>
+			<p facs="#facs_2_region_1593110427639_961">
+				<lb facs="#facs_2_line_1593110560129_1021" n="N001" />Eötvös-u 26 B. <hi rend="ul">III</hi>.
+			</p>
+			<p facs="#facs_2_region_1593110666650_1054">
+				<lb facs="#facs_2_line_1593110685237_1059" n="N001" />K 45-
+			</p>
+		</body>
+	</text>
+</TEI>
